@@ -10,5 +10,6 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor 
 * Las personalidades múltiples de Freddy
 * Creado por el increible equipo CAMI TEAM
+* Incluye ejemplos en Windows, Linux y MAX
 
 y como un amable recordatorio: **Este Readme.md es un chiste**. Diseñado par el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
